@@ -1,0 +1,5 @@
+JDK El paquete JDK contiene el entorno de desarrollo de Java de Sun. Sirve para desarrollar programas Java y proporciona el entorno de ejecución necesario para ejecutar dichos programas
+
+JREes un conjunto de utilidades que permite la ejecución de ... Un usuario sólo necesita el JRE para ejecutar las aplicaciones desarrolladas en lenguaje Java
+
+JVM es una máquina virtual de proceso nativo, es decir, ejecutable en una plataforma específica, capaz de interpretar y ejecutar instrucciones expresadas en un código binario especial (el bytecode Java), 
